@@ -1,0 +1,6 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+npm install -g npm-windows-upgrade
+npm-windows-upgrade
+abp install-libs
+
+admin-1q2w3E*
